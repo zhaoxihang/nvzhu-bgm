@@ -1,0 +1,47 @@
+# Android / Gradle
+*.iml
+.gradle
+/local.properties
+/.idea/
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+*.apk
+*.ap_
+*.aab
+
+# Built application files
+app/build/
+
+# Gradle
+.gradle/
+
+# Android SDK
+android-sdk/
+gradle-8.2/
+
+# Generated files
+bin/
+gen/
+out/
+
+# Log Files
+*.log
+
+# Build outputs
+/app/release/
+/app/debug/
+
+# Signing
+*.jks
+*.keystore
+
+# Audio stays on the user's device. Do not commit tracks.
+*.mp3
+*.m4a
+*.aac
+*.wav
+*.ogg
+*.flac
